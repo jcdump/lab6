@@ -10,27 +10,14 @@
   --color-background: #464e52;
 }
 
-body {
-  font-family: Helvetica, sans-serif;
-  background-color: var(--color-background);
-  color: var(--color-offwhite);
-}
 
 h1 {
-  font-size: 6em;
   text-align: center
 }
 
-h3 {
-  font-size: 3em;
-}
 
 footer {
   text-align: center;
-}
-
-.bold {
-  font-weight: bold;
 }
 
 .container {
